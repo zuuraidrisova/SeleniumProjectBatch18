@@ -54,6 +54,5 @@ ANNOTATIONS:
 	  ex:
 	  	-> closing quitting driver
 	  	-> closing browser
-
      */
 }

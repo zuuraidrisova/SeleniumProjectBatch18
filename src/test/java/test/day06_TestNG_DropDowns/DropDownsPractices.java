@@ -41,6 +41,7 @@ Expected: “Select a State”
 
     @AfterMethod
     public void tearDown() throws InterruptedException{
+
         //it does not matter where you put after or before methods
         // because they  run based on annotations.. not like java top to bottom
         Thread.sleep(2000);

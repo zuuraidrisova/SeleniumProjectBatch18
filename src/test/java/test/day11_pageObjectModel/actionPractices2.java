@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 import utilities.Driver;
 
 public class actionPractices2 {
+
     /*
     TC #16: Double Click Test
 1. Go to https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_ondblclick2
@@ -46,8 +47,8 @@ public class actionPractices2 {
         System.out.println("Verification Passed!");
     }
 
-            /*
-TC #16: Hover Test
+  /*
+TC #17: Hover Test
 1. Go to https://demos.telerik.com/kendo-ui/dragdrop/index
 2. Drag and drop the small circle to bigger circle.
 3. Assert:
@@ -91,6 +92,7 @@ TC #16: Hover Test
 4. Accept alert
 No assertion needed for this practice.
      */
+
     @Test
     public void right_click_test() throws InterruptedException{
 

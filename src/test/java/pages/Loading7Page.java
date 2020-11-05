@@ -10,6 +10,7 @@ public class Loading7Page {
     public Loading7Page(){
 
         PageFactory.initElements(Driver.getDriver(), this);
+
     }
 
     @FindBy(xpath = "//strong")

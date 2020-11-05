@@ -53,10 +53,9 @@ public class smartBearEditOrder {
 
         customerName.sendKeys("Michael Jordan");
 
-       WebElement updateButton =  driver.findElement(By.id("ctl00_MainContent_fmwOrder_UpdateButton"));
+        WebElement updateButton =  driver.findElement(By.id("ctl00_MainContent_fmwOrder_UpdateButton"));
 
-
-       updateButton.click();
+        updateButton.click();
 
         List<WebElement> listOfName = driver.findElements(By.xpath("//table[@class='SampleTable']/tbody/tr/td[2]"));
 

@@ -7,14 +7,15 @@ import utilities.Driver;
 
 public class Loading1Page {
 
+
     public Loading1Page(){
 
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
+
     @FindBy(xpath = "//button[.='Start']")
     public WebElement startButton;
-
 
     @FindBy(id = "username")
     public WebElement username;
@@ -24,7 +25,6 @@ public class Loading1Page {
 
     @FindBy(xpath = "//button[@type='submit']")
     public WebElement submitButton;
-
 
     @FindBy(xpath = "//div[@id='loading']")
     public WebElement loadingBar;

@@ -40,6 +40,7 @@ public class P2_FindElementsApple {
 
             System.out.println(textOfEachLink);
         }
+
         System.out.println("========================================");
         //5. Print out how many link is missing text
         //6. Print out how many link has text

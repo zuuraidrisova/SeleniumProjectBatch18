@@ -2,7 +2,6 @@ package test.day07_WebTables;
 
 public class RecapNotes {
     /*
-
     findElement==> return type is WebElement
                    throws NoSuchElementException
     findElements ==> return type is list of WebElements
@@ -12,7 +11,7 @@ public class RecapNotes {
 
         1. HTML Dropdowns
             -> just like another html dropdown
-            -> these dropdowns are created usually divs and links
+            -> these dropdowns are created usually by divs and links
             -> when you inspect, if you see it is not created using <select> tag,
                 it means it is not  SELECT dropdown
             -> therefore we cannot use SELECT class methods on it
@@ -103,13 +102,6 @@ public class RecapNotes {
         - phone number
         - email
         - and dozens of other different options
-
-
-
-
-
-
-
 
      */
 }

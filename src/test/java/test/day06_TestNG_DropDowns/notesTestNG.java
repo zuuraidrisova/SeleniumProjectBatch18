@@ -201,10 +201,6 @@ we dont need main method in java to run our methods from now on, because of anno
 
 ======> deSelectAll() ==> this will deselect all options that are selected
 
-
-
-
-
      */
 
 }

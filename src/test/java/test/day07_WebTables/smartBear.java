@@ -33,12 +33,13 @@ public class smartBear {
 
       WebElement Bob =  driver.findElement(By.xpath("//table[@class='SampleTable']/tbody/tr/td[.='Bob Feather']"));
 
-     String actualName =  Bob.getText();
-     String expectedInName = "Bob";
+      String actualName =  Bob.getText();
+      String expectedInName = "Bob";
 
        Assert.assertTrue(actualName.contains(expectedInName));
 
        System.out.println("Verification passed!");
+
    }
 
    @AfterMethod

@@ -26,6 +26,7 @@ public abstract class TestBase {
     public void tearDownMethod(){
 
         driver.close();//will close only current tab
+
         //driver.quit(); ==> will close all open tabs
 
     }

@@ -19,13 +19,11 @@ import java.util.concurrent.TimeUnit;
 public class DropdownPractices {
 
     /*
-
     TC#7: Cybertek “month” dropdown default value
 1. Open browser
 2. Go to website: http://practice.cybertekschool.com/dropdowns
 3. Verify default value is always showing the current month
 o Expected: If currently in June, should show June selected
-
      */
     WebDriver driver;
 
@@ -80,9 +78,8 @@ o Expected: Options should contain all 12 months of the year.
 
         Assert.assertEquals(actualMonthOptions, expectedMonthOptions);
 
-
-
     }
+
 
     @AfterMethod
     public void tearDown(){

@@ -8,6 +8,7 @@ import utilities.Driver;
 import utilities.configurationReader;
 
 public class TC35_TC36_VytrackForgotPasswordVerification {
+
     /*
 TC#35 : Vytrack forgot password page verifications à TITLE and URL
 1. Go to https://qa2.vytrack.com
@@ -67,10 +68,10 @@ Note: Follow Page Object Model design pattern
 
         forgotPassword.requestButton.click();
 
-       String actualErrorMessage =  forgotPassword.errorMessage.getText();
-       String expectedErrorMessage = "There is no active user with username or email address \"something123\".";
+        String actualErrorMessage =  forgotPassword.errorMessage.getText();
+        String expectedErrorMessage = "There is no active user with username or email address \"something123\".";
 
-       Assert.assertEquals(actualErrorMessage, expectedErrorMessage);
+        Assert.assertEquals(actualErrorMessage, expectedErrorMessage);
 
         System.out.println("Verification passed!");
 

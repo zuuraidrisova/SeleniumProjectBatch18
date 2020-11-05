@@ -62,6 +62,7 @@ http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx
         List<WebElement> listOfLinks = driver.findElements(By.xpath("//body//a"));
 
        int actualNumberOfLinks = listOfLinks.size();
+
        int expectedNumberOfLinks = 6;
 
         Assert.assertTrue(actualNumberOfLinks == expectedNumberOfLinks);
@@ -79,4 +80,5 @@ http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx
 
         driver.close();
     }
+
 }

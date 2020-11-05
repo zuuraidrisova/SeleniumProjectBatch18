@@ -15,6 +15,7 @@ public class smartBearUtility {
 • This method simply logs in to SmartBear when you call it.
 • Accepts WebDriver type as parameter
      */
+
     public static void login(WebDriver driver) {
 
 
@@ -31,6 +32,7 @@ public class smartBearUtility {
         loginButton.click();
 
     }
+
     /*
 PRACTICE #4: Method: verifyOrder
 • Create a method named verifyOrder in SmartBearUtils class.
@@ -80,7 +82,7 @@ given name is in the list or not.
 
         for(int  i = 0; i < listOfNames.size(); i++){
 
-            output = "Name"+(i+1)+": "+listOfNames.get(i).getText()+" , "+"City"+(i+1)+": "+listOfCities.get(i).getText();;
+            output = "Name"+(i+1)+": "+listOfNames.get(i).getText()+" ,City "+(i+1)+": "+listOfCities.get(i).getText();;
 
             System.out.println(output);
         }

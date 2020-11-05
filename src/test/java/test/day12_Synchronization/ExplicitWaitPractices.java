@@ -13,7 +13,7 @@ public class ExplicitWaitPractices {
     /*
     TC#40 : Dynamically Loaded Page Elements 7
 1. Go to http://practice.cybertekschool.com/dynamic_loading/7
-2. Wait until title is “Dynamic Title”
+2. Wait until title is “Dynamic title”
 3. Assert : Message “Done” is displayed.
 4. Assert : Image is displayed.
 Note: Follow POM
@@ -48,6 +48,7 @@ Note: Follow POM
 8. Assert “Your username is invalid!” text is displayed.
 Note: Follow POM
      */
+
     @Test
     public void tc41_dynamicForm_test(){
 

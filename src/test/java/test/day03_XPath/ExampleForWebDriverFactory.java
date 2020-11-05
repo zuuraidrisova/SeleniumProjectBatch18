@@ -15,7 +15,7 @@ public class ExampleForWebDriverFactory {
         to avoid repetition
          */
 
-       WebDriver driver = WebDriverFactory.getDriver("chrome");
+        WebDriver driver = WebDriverFactory.getDriver("chrome");
 
         driver.get("https://www.google.com");
 

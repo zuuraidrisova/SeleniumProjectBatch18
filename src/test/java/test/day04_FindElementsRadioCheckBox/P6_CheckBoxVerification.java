@@ -9,7 +9,6 @@ import java.util.concurrent.TimeUnit;
 public class P6_CheckBoxVerification {
 
     public static void main(String[] args) {
-
         /*
 TC #3: SeleniumEasy Checkbox Verification – Section 2
 1. Open Chrome browser

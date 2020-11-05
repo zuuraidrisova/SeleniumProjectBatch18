@@ -15,6 +15,7 @@ public class EtsyTitleVerification {
      */
     public static void main(String[] args) {
 
+        //creates connection between selenium code and browser
         WebDriverManager.chromedriver().setup();
 
         //1.Open Chrome browser

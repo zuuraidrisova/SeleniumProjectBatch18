@@ -71,7 +71,7 @@ public class BasicSeleniumNavigations{
         navigate().to() : does not wait the whole page to be downloaded
          */
 
-        //driver.getTitle();  returns us web page title asa string
+        //driver.getTitle();  returns us web page title as a string
 
         String title = driver.getTitle();
 
@@ -90,7 +90,6 @@ public class BasicSeleniumNavigations{
         String pageSource =  driver.getPageSource();
 
        // System.out.println(pageSource); it works just dont want to have whole source
-
 
         // driver.close() :  closes an open browser
         //driver.quit() : closes all tabs and ends the session

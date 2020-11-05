@@ -50,9 +50,6 @@ public class FindElementFindElements {
                ->returns all matching results
                -> u can start from anywhere in the html code
 
-
-
-
      */
 
 }

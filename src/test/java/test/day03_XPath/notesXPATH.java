@@ -19,7 +19,7 @@ public class notesXPATH {
                         ==> it helps us control versions of tools we add into our project
 
             .findElement(locator) ==> method which finds and returns specific web element
-                                      it accepts String as prmtr as locator and returns ne
+                                      it accepts String as prmtr as locator and returns
                                       web element, if it did not find it will throw
                                       noSuch Element Exception
                                       return type : webElement
@@ -57,7 +57,6 @@ public class notesXPATH {
 
                                 driver.findElement()By.id("fa83").getAttribute("name")
 
-
                8 Locators:
 
                1.By.id  ==> looks for id attribute's value
@@ -89,7 +88,6 @@ public class notesXPATH {
               -> If web element is displayed, it returns true
               -> If web element is not displayed, it returns false
               -> It does not accept any arguments
-
 
         Last 2 Locators in Selenium?
 
@@ -125,12 +123,13 @@ public class notesXPATH {
         8. xpath
 
         => when you are not able to use other 6 locators, use xpath
-        => not reliable, because breaks easily, if developer makes a minimal structural change
-         in HTML code, locator will not work, we need to try to avoid using it
         there are 2 types of xpath locators:
+
         1.absolute xpath
             -> starts with single slash -> /
             -> starts from the very beginning of html code <html>
+      => not reliable, because breaks easily, if developer makes a minimal structural change
+    in HTML code, locator will not work, we need to try to avoid using it
 
              <html> ==> this is where absolute path starts
                 <head></head>
@@ -141,7 +140,7 @@ public class notesXPATH {
                 </body>
              </html>
         syntax:
-            driver.findElement(By.xpath("/absolute xpath xpath here"));
+            driver.findElement(By.xpath("/absolute xpath here"));
 
                ex: if i want to locate using absolute path
 
@@ -172,10 +171,10 @@ public class notesXPATH {
             to go from child to parent using xpath : use /..
             this will take  you to the direct parent of the current web element
 
-
-
-
-
-
      */
+
+
+
+
+
 }

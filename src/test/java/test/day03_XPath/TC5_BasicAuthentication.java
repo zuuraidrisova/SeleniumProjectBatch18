@@ -49,10 +49,11 @@ Print out results in validation formats
 
             System.out.println("username display verification Failed!");
         }
+
         boolean displayed =  driver.findElement(By.className("wrapper")).isDisplayed();
 
-        //7. Verify the title Zero – Account Summary
 
+        //7. Verify the title Zero – Account Summary
         String actualTitle = driver.getTitle();
         String expectedTitle = "Zero - Account Summary";
 

@@ -47,5 +47,6 @@ public class ReadingFromProperties {
 
         System.out.println("configurationReader.getProperty(\"password\") = " + configurationReader.getProperty("password"));
 
+
     }
 }

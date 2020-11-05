@@ -15,6 +15,7 @@ public class P3_smartBearSoftwareOrderVerification {
     /*
     TC#3: Smartbear software order verification
 1. Open browser and login to Smartbear software
+ and go to http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx
 2. Click on View all orders
 3. Verify Susan McLaren has order on date “01/05/2010”
      */

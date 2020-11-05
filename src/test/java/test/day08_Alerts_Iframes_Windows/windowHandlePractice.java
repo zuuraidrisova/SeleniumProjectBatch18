@@ -50,7 +50,9 @@ public class windowHandlePractice {
         for (String each : driver.getWindowHandles()) {
 
             System.out.println("Before switching");
+
             driver.switchTo().window(each);
+
             if(driver.getTitle().equals("New Window")){
 
                 Assert.assertEquals(driver.getTitle(), "New Window");

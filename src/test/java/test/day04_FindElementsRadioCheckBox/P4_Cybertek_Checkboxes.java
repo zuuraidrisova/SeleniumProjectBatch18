@@ -39,6 +39,7 @@ public class P4_Cybertek_Checkboxes {
 
             System.out.println("Checkbox 1 is selected by default.Verification Failed! ");
         }
+
         //        3. Confirm checkbox #2 is SELECTED by default.
 
         WebElement checkbox2 = driver.findElement(By.xpath("//input[@type='checkbox'][2]"));

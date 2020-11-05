@@ -67,6 +67,8 @@ import org.openqa.selenium.JavascriptExecutor;
             }
         }
 
+        driver.close();
+
     }
 
 

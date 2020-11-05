@@ -77,6 +77,7 @@ public class removeName {
 
         removeName(driver,"Bob Feather");
 
+        driver.close();
     }
 
 }

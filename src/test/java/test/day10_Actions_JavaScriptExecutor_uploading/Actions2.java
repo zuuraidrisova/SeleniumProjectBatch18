@@ -21,12 +21,15 @@ public class Actions2 {
 
         Actions actions = new Actions(Driver.getDriver());
 
-
         WebElement languageOptions = Driver.getDriver().findElement(By.id("icp-nav-flyout"));
 
         Thread.sleep(2000);
 
-        actions.perform();
+        actions.moveToElement(languageOptions).perform();
+
+        Driver.closeDriver();
 
     }
+
+
 }

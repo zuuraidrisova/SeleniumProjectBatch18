@@ -43,5 +43,56 @@ How do we handle web tables?
     - By creating custom locators to get whatever I need to get from the table.
     -> If I need to get the whole row, I create a locator that returns me the whole row.
     -> If I need to get 1 single cell, I need to create a locator that returns me 1 single cell
+ ALERTS
+    There are two types of alerts.
+    1- HTML Alerts:
+        -> How do we handle: We just locate just as another web element on the page.
+        -> Then we click.
+    2- JavaScript Alerts:
+    There are 3 types of JS alerts.
+        1- Warning/Information : You only have 1 option. You have to accept.
+        2- Confirmation : You can both accept or dismiss.
+        3- Prompt : You can accept, dismiss, AND send keys.
+    HOW DO WE HANDLE ALERTS?
+        -> Using Alerts.
+        -> JS alerts are not part of the HTML structure. Therefore we need to switch the driver focus to the alert itself.
+        -> Otherwise the selenium driver will not be able to do any action on it.
+        1- Create an instance of Alert, then switch to alert.
+                Alert alert = driver.switchTo().alert();
+        2- Use the instance of alert, to accept, dismiss, or sendkeys.
+            alert.accept();
+            alert.dismiss();
+            alert.sendKeys("text goes here");
+=====================================
+IFRAMES
+-> Iframe = Inline frame
+-> Iframes are basically <html> inside of another <html>
+-> Selenium can only focus one thing at a time. Therefore if we have iframe on the page,
+ we need to SWITCH driver's focus to the inner iframe to be able to perform any action
+  with Selenium.
+-> There are 3 ways to switch to iframes
+    1- Locating as WebElement then using that webElement to switch.
+    WebElement iframe = driver.findElement(LOCATOR);
+    driver.switchTo.frame(iframe);
+    2- Switching by index. We pass the index number of the frame.
+    -> if you have more than one iframe on the page, indexes are used.
+    <iframe> --> index 0
+    <iframe> --> index 1
+    <iframe> --> index 2
+    driver.switchTo.frame(0);
+    3- Switching by id or name attribute value.
+    driver.switchTo.frame("idValue");
+    driver.switchTo.frame("nameValue");
+==============================================================
+WINDOWS/TABS
+    -> Selenium can only focus on one thing at a time.
+    -> Selenium creates something called window handle for each tab or window.
+    -> For selenium, there is no difference between a tab, and a window. It treats both as the same thing.
+    What is a window handle : Randomly generated string that is unique to each window.
+    How to get current window handle?
+        -> driver.getWindowHandle() --> will return current window handle as a string
+    How to get all of the window handles of the currenly opened tabs/windows?
+        -> driver.getWindowHandles() --> will return a SET OF STRINGS that contains all the window handles.
+
      */
 }

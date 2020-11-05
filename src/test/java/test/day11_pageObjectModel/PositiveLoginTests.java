@@ -41,5 +41,7 @@ Note: Follow Page Object Model design pattern
         Assert.assertTrue(actualTitle.equals(expectedTitle));
 
         System.out.println("Verification passed!");
+
+
     }
 }

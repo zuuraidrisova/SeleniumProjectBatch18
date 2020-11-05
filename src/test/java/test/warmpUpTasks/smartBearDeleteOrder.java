@@ -44,9 +44,9 @@ public class smartBearDeleteOrder {
 
         markSmith.click();
 
-       WebElement deleteButton =  driver.findElement(By.name("ctl00$MainContent$btnDelete"));
+        WebElement deleteButton =  driver.findElement(By.name("ctl00$MainContent$btnDelete"));
 
-       deleteButton.click();
+        deleteButton.click();
 
         List<WebElement> listOfName = driver.findElements(By.xpath("//table[@class='SampleTable']/tbody/tr/td[2]"));
 
@@ -56,6 +56,7 @@ public class smartBearDeleteOrder {
 
         }
         System.out.println("Verification Passed!");
+
     }
 
     @AfterMethod

@@ -21,9 +21,11 @@ public class configurationReader{
         //get the path and store in string
         String path = "configuration.properties";
 
-        //we need to open the file
+
         try {
+            //we need to open the file
             FileInputStream file = new FileInputStream(path);
+
             // we need to load the file
             properties.load(file);
 
@@ -41,9 +43,6 @@ public class configurationReader{
 
         return properties.getProperty(keyword);
     }
-
-
-
 
 
 }

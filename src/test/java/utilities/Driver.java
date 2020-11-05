@@ -10,7 +10,7 @@ import org.openqa.selenium.opera.OperaDriver;
 
 public class Driver {
 
-        //make constructor private
+        //make constructor private so no one can create an instance of the class
 
     private Driver(){
 

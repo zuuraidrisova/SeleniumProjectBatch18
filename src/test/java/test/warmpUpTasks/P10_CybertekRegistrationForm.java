@@ -14,6 +14,7 @@ import utilities.WebDriverFactory;
 import java.util.concurrent.TimeUnit;
 
 public class P10_CybertekRegistrationForm {
+
     /*
     TC#6: Cybertek registration form confirmation
 Note: Use JavaFaker when possible.

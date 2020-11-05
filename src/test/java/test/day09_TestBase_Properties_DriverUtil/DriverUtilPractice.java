@@ -17,5 +17,7 @@ public class DriverUtilPractice {
         WebElement googleSearch = Driver.getDriver().findElement(By.name("q"));
 
         googleSearch.sendKeys(configurationReader.getProperty("testData")+ Keys.ENTER);
+
     }
+
 }

@@ -50,6 +50,7 @@ public class testNGPractice {
             System.out.println("Test 2 running...");
 
             Assert.assertEquals("string1","string2","String verification on test 2 failed");
+
         }
         //@Test
         public void test3(){
@@ -78,4 +79,6 @@ public class testNGPractice {
 
             System.out.println("After test running...");
         }
+
+
 }

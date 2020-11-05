@@ -30,9 +30,9 @@ public class P2_AppleFindElementsPractice {
 
         driver.get(" https://www.apple.com");
 
-       WebElement iPhoneLink =  driver.findElement(By.xpath("(//a[@href='/iphone/'])[1]"));
+        WebElement iPhoneLink =  driver.findElement(By.xpath("(//a[@href='/iphone/'])[1]"));
 
-       iPhoneLink.click();
+        iPhoneLink.click();
 
         List<WebElement> allLinks = driver.findElements(By.xpath("//body//a"));
 

@@ -296,6 +296,84 @@ pom.xml
     ~./m2
 -> this is a hidden file where maven downloads your dependencies.
 --> IMPLICIT WAIT VS THREAD.SLEEP
+-> Thread.sleep();
+	- This comes from java
+	- Thread.sleep makes the whole code stop & wait for the given duration
+	- It does not look for any conditions. It only wait for the given duration.
+	ex: Thread.sleep(2000); --> will wait for 2 seconds
+
+-> Implicit wait
+	- Where does implicit wait come from?
+	- It comes from Selenium.
+	- This will wait UPTO given time duration, and check DOM(HTML).
+	- Continues when all webElements are loaded on the page.
+
+	syntax: driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+
+	-> Lets say if the page is loaded at 3 seconds in, what happens?
+	-> It just moves on with the exection of the rest of the lines.
+
+findElements()-->
+	-> What is the return type of this method?
+	-> This returns List of WebElements
+	-> So if we have to store whatever this method is returning, we have to create a JAVA List, with the type <WebElement>
+
+	Syntax: List<WebElement> listA = driver.findElements(By.locator);
+
+	-> What happens if it does not find a web element?
+	-> It does NOT throw an exception.
+	-> It returns an empty list.
+
+
+- Checkboxes and radio buttons
+	- checkbox:
+		- allows for multiple selection
+		- checkboxes act independently from each other
+	- radio buttons:
+		- allows only one of the options to be selected
+		- the reason is, the radio button options are acting as a group
+
+
+HOW DO WE HANDLE CHECKBOXES AND RADIO BUTTONS USING SELENIUM?
+	- We locate, and we click on them.
+
+	-> isSelected()
+		- This method checks if the checkbox/radiobutton is selected or not selected.
+		- The return type of this method is: boolean
+		- If the checkbox/radio button is selected --> isSelected()--> true
+																else --> false
+	-> isEnabled()
+		- This method checks if the checkbox/radiobutton is enabled to be clicked.
+		- The return type of this method is: boolean
+		- If the checkbox/radiobutton is clickable/enabled --> isEnabled -> true
+																else --> false
+
+	syntax: driver.findElement(LOCATOR).isSelected();
+	syntax: driver.findElement(LOCATOR).isEnabled();
+
+
+StaleElementReferenceException:
+	-> A stale element reference exception is thrown in one of two cases, the first being more common than the second:
+
+		1- The element has been deleted entirely.
+		2- The element is no longer attached to the DOM.
+			- If there are any type of navigations that happened on the page, where your driver previously was able to locate the web element, after navigations StaleElementReferenceException will be thrown.
+
+--> For this exception to be thrown, the driver is supposed to locate this web element first.
+	- Then some kind of action happens, such as: web element is deleted from the page OR some simple navigation happens (refresh, forward, back). Then, your driver will not be able to locate the same web element even though it is in the HTML.
+
+	WebElement checkbox = driver.findElement(LOCATOR);
+
+	checkbox.click;
+
+	driver.navigate().refresh();
+	checkbox = driver.findElement(LOCATOR);
+	checkbox.click();  <--stale element reference exception will be thrown
+
+
+// after refresh, driver will not be able to do any action on checkbox webelement, UNTIL WE RELOCATE/REFRESH the reference.
+
+-If the web element is completely removed we just need to use try/catch and catch the exception and do our verification
 
 
      */

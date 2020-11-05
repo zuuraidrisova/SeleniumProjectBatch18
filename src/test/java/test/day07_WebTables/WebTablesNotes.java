@@ -63,14 +63,6 @@ public class WebTablesNotes {
      /preceding-sibling::tagName -> this will only go to the siblings that is BEFORE
 
 
-
-
-
-
-
-
-
-
      */
 
 }

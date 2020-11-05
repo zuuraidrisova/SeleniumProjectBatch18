@@ -1,6 +1,7 @@
 package test.day12_Synchronization;
 
 public class RecapNotes {
+
     /*
     JULY 7TH, TUESDAY
 TODAY'S SCHEDULE
@@ -77,6 +78,130 @@ FRIDAY
             (advantage coming from the disadvantage)
         -> But the more web elements we create in the beginning, the less work is
         left for us in the future. So later on, we will just keep re-using the methods.
+
+===========================================================
+
+SYNCHRONIZATION:
+SYNCHRONIZATION means moving, working, acting together.
+
+->In our case: We want the webdriver and the browser to be synchronized.
+
+What can we do to achieve different types of SYNCHRONIZATION?
+
+-> OPTION #1: Thread.sleep
+- Coming from JAVA, not Selenium.
+- Stops the execution of the code with no conditions checked.
+- If we say wait for 10 seconds, it will stop the execution of the whole code for 10 seconds.
+- It is not considered a good practice to use Thread.sleep.
+- You should not use it UNLESS you have to.
+
+-> OPTION #2: Implicit Wait
+- Implicit wait is coming from selenium.
+- The default value is 0.
+- Every time findElement, findElements method is used, this implicitlyWait method is triggered.
+- We set this once, and it applies to every time we are trying to find element.
+
+to understand further:
+When we use find element method:
+
+findElement():
+-> takes a locator for WebElement
+
+if (web element is found)
+-> returns the webElement
+if (web element is not found)
+-> throw NoSuchElementException
+
+--> if you already have set implicit wait:
+
+-> if WebElement is not found yet
+-> it will trigger the implicitlyWait method. (10, TimeUnit.sec)
+-> it will wait for the given time
+-> in that given seconds if driver can find the web element we are looking for,
+    it will return the web element
+else (if it cannot find)
+-> it throws NoSuchElementException
+
+Driver.getDriver().manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+Driver.getDriver().manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+Driver.getDriver().manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+
+--> It will wait UPTO given seconds.
+--> Let's say I gave 20 seconds wait, but web element was found 5 seconds into it:
+-> driver will continue with the execution. It will not wait for the rest of the 15 seconds.
+
+
+command + shift + c ==> for immediately inspecting a web element
+control + shift + c ==> for immediately inspecting a web element
+
+================================================================
+
+WEBDRIVERWAIT CLASS
+-> When do we need to use WebDriverWait class?
+-> If we are waiting for some specific situation to happen, we can use WebDriverWait class.
+-> For example:
+- visibility of web element
+- invisibility of web element
+- titleIs --> looks for exact title match
+- titleContains --> looks for partial title match
+- elementToBeClickable
+- URL Contains something
+- attribute value to be something specific
+
+- We should always try to use WebDriverWait whenever we can, to save time.
+- This will wait UPTO given seconds, just like implicit wait.
+- It will immediately continue after the condition is true.
+- It will throw TimeOutException when the condition does not happen.
+
+HOW TO USE WEBDRIVERWAIT / EXPLICIT WAIT IN SELENIUM WEBDRIVER?
+
+- We need to remember 2 steps:
+1- To create the object of the WebDriverWait class.
+
+syntax:
+
+WebDriverWait wait = new WebDriverWait(Driver.getDriver(), 10);
+
+
+2- To use the object we just created "wait", to be able to create our explicit wait condition.
+
+wait.until(ExpectedConditions.invisibilityOf());
+wait.until(ExpectedConditions.visibilityOf());
+wait.until(ExpectedConditions.titleIs());
+wait.until(ExpectedConditions.titleContains());
+
+
+WHAT COULD BE REASONS FOR GETTING NoSuchElementException?
+
+#1 - Wrong locator
+#2 - Page loading slowly : whenever we are checking web element is not in html yet
+#3 - findElement : everytime we try to locate a webelement, if web element is not found, it will throw no such element exception
+#4 - iframe : if there is an iframe, and we don't switch to it, even with correct locators we will get NoSuchElementException.
+
+
+========================================================
+
+JUNIT : is unit testing framework/tool
+-> Very similar to TestNG. Infact TestNG was inspired by JUNIT
+-> JUNIT is a light weight version of TestNG
+
+@Test : same as TestNG
+- Used to make methods a test
+
+@Before :
+-> Similar to BeforeMethod in TestNG, it runs after each Test.
+
+@After :
+-> Same as the AfterMethod in TestNG, it runs after each Test.
+
+
+@BeforeClass, @AfterClass : Runs before and after class same as TestNG.
+-> The only difference is these methods should be static
+
+@BeforeClass
+public static void setUpClass(){
+
+}
 
      */
 }

@@ -22,6 +22,7 @@ public class TestngSeleniumPractice {
         driver.get("https://www.google.com");
 
     }
+
     @Test (priority = 1)
     public void google_search_title_verification(){
 

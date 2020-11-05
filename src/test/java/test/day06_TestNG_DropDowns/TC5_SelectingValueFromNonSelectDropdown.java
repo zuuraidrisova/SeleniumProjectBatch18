@@ -44,7 +44,7 @@ public class TC5_SelectingValueFromNonSelectDropdown {
     @Test
     public void test() throws InterruptedException{
 
-       WebElement selectWebsite =  driver.findElement(By.xpath("//a[@class='btn btn-secondary dropdown-toggle']"));
+        WebElement selectWebsite =  driver.findElement(By.xpath("//a[@class='btn btn-secondary dropdown-toggle']"));
 
         selectWebsite.click();
 

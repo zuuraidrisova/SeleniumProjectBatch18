@@ -57,7 +57,6 @@ a. Mac, iPad, iPhone, Watch, TV, Music, Support
            List<WebElement> listOfLinks = driver.findElements(By.xpath("//body//a"));
 
            //4. Print out how many links on each page with the titles of the pages
-
            System.out.println("Number of links on page: "+driver.getTitle()+" "+listOfLinks.size());
            //text of links
 

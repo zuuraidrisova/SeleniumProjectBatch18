@@ -82,5 +82,6 @@ public class P5_CheckboxVerificationPractice {
         driver.close();
 
 
+
     }
 }

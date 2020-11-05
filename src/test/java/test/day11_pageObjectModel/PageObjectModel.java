@@ -24,16 +24,12 @@ public class PageObjectModel {
 
           -> re-usability : we are creating one place for each web element and keep re-using
                             same object
-          -> easy to maintain : since we are creating and locating each we element only once
+          -> easy to maintain : since we are creating and locating each web element only once
                             in its own related class, when we have issue with that web element
                             we only go fix it in one place
           -> easy to manage : we are managing
 
-
-
-
             //Command+z ==> to go back if deleted
-
 
 
      */

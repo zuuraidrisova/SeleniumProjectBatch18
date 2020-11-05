@@ -53,6 +53,6 @@ Expected: “/forgot-password.html”
             System.out.println("Forgot Password Link is NOT  Displayed, Verification Failed");
         }
 
-        driver.close();
+         driver.close();
     }
 }

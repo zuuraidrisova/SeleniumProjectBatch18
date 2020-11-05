@@ -34,7 +34,7 @@ public class TC5_BasicLoginAuthentication {
         driver.get("http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx");
 
 
-        // 3-Verify	title	equals: Expected:	Web	Orders	Login
+        // 3-Verify	title	equals: Expected:	Web	Orders Login
 
        String actualTitle =  driver.getTitle();
        String expectedTitle = "Web Orders Login";

@@ -94,14 +94,12 @@ public class alertsPractices {
         String actualMessage = successMessage.getText();
         String expectedMessage = "You clicked: Ok";
 
-
-
         System.out.println("Verification Passed!");
 
     }
 
     /*
-    TC #3: Information alert practice
+    TC #3: JS Prompt alert practice
     1.Open browser
     2.Go to website: http://practice.cybertekschool.com/javascript_alerts
     3.Click to “Click for JS Prompt” button

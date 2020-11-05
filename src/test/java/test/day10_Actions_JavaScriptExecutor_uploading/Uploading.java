@@ -16,11 +16,12 @@ public class Uploading {
         WebElement chooseFile = Driver.getDriver().findElement(By.id("file-upload"));
 
         Thread.sleep(2000);
+
         chooseFile.sendKeys("/Users/zuura/Desktop/test");
 
-       WebElement fileUpload  =  Driver.getDriver().findElement(By.xpath("//input[@id='file-submit']"));
+        WebElement fileUpload  =  Driver.getDriver().findElement(By.xpath("//input[@id='file-submit']"));
 
-       fileUpload.click();
+        fileUpload.click();
 
         WebElement fileUploadedMessage = Driver.getDriver().findElement(By.xpath("//div[@class='example']"));
 
@@ -28,5 +29,6 @@ public class Uploading {
 
         System.out.println("Assertion pass!");
 
+        Driver.closeDriver();
     }
 }

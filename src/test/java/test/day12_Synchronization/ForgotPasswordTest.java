@@ -39,7 +39,6 @@ Note: Follow Page Object Model design pattern
 
         Assert.assertEquals(actualURL, expectedURL);
 
-
     }
     /*
     TC#36 : Vytrack forgot password page verification à ERROR MESSAGE

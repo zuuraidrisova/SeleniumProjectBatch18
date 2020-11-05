@@ -75,6 +75,7 @@ public class TC4_selectingFromMultipleDropdown {
 
 
         Thread.sleep(1000);
+
         languagesDropdown.deselectAll();
 
 

@@ -74,12 +74,5 @@ public class TC3_LinkTextLocator {
             System.out.println("Google Page Title Verification FAILED");
         }
 
-
-
-
-
-
-
-
     }
 }

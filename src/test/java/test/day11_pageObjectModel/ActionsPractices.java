@@ -20,6 +20,7 @@ public class ActionsPractices {
 
         //locating web element until which we want to scroll
         WebElement cybertekSchoolLink = Driver.getDriver().findElement(By.linkText("Cybertek School"));
+
         WebElement inputs = Driver.getDriver().findElement(By.linkText("Inputs"));
 
         Thread.sleep(2000);

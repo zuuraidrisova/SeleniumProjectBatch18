@@ -7,6 +7,7 @@ import utilities.WebDriverFactory;
 import java.util.concurrent.TimeUnit;
 
 public class P15_HoverTest {
+
     /*
     TC #15: Hover Test
 1. Go to http://practice.cybertekschool.com/hovers
@@ -20,6 +21,7 @@ a. “name: user2” is displayed
 7. Confirm:
 a. “name: user3” is displayed
      */
+
 
 
 

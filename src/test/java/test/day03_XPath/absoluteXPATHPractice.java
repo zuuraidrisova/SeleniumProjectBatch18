@@ -15,13 +15,13 @@ public class absoluteXPATHPractice {
 
         WebElement homeLink = driver.findElement(By.xpath("/html/body/nav/ul/li/a"));
 
-       if(homeLink.isDisplayed()){
+        if(homeLink.isDisplayed()){
 
            System.out.println("Home link is displayed on the page, PASS!");
-       }else{
+        }else{
 
            System.out.println("Home link is NOT displayed on the page,FAIL");
-       }
+        }
 
     }
 }

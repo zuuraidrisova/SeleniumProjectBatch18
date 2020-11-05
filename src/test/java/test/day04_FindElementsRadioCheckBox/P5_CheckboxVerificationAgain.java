@@ -36,7 +36,7 @@ public class P5_CheckboxVerificationAgain {
 
         successCheckbox.click();
 
-        Thread.sleep(2000);
+        Thread.sleep(2000);//to stop the session for 2 seconds
 
         if(successMessage.isDisplayed()){
 

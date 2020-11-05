@@ -51,7 +51,7 @@ Hint: Need to use findElements method.
 
             eachDelete.click();
         }
-       //6. Verify “Delete” button is NOT displayed after clicking.
+        //6. Verify “Delete” button is NOT displayed after clicking.
 
         String allTextsOnPage = driver.findElement(By.xpath("//div[@class='container']")).getText();
         String containDelete = "Delete";

@@ -25,7 +25,6 @@ public class NegativeLoginTests {
         usernameInput.sendKeys(configurationReader.getProperty("storeManager_username"));
         passwordInput.sendKeys("askjgdei64");
 
-
         loginButton.click();
 
         WebElement errorMessage = Driver.getDriver().findElement(By.xpath("//div[@class='alert alert-error']"));
@@ -35,7 +34,6 @@ public class NegativeLoginTests {
         System.out.println("Verification passed!");
 
         //Invalid user name or password.
-
 
         String expectedMessage = "Invalid user name or password.";
         String actualMessage = errorMessage.getText();

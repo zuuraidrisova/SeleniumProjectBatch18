@@ -75,6 +75,7 @@ Hint: You need to use getText method for this practice.
 
             System.out.println("Message is NOT displayed, verification FAILED");
         }
+
         driver.close();
 
     }

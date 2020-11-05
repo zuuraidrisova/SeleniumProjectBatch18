@@ -1,6 +1,7 @@
 package test.warmpUpTasks;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import utilities.WebDriverFactory;
@@ -9,6 +10,7 @@ import utilities.smartBearUtility;
 import java.util.concurrent.TimeUnit;
 
 public class P8_VerifyOrder {
+
     /*
 PRACTICE #4: Method: verifyOrder
 • Create a method named verifyOrder in SmartBearUtils class.
@@ -42,6 +44,11 @@ given name is in the list or not.
 
     }
 
+    @AfterMethod
+    public void teardown(){
+
+        driver.close();
+    }
 
 
 }

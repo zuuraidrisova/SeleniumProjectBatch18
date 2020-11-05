@@ -12,22 +12,28 @@ TODAY'S SCHEDULE
 HOW DO YOU HANDLE DOWNLOADS WITH SELENIUM?
     -> WE DON'T/CAN'T.
     -> Selenium cannot handle downloads except for the clicking the link part.
-    -> Since selenium can only work with browsers, and the file is downloaded to the computer file directory, we cannot verify a download using selenium.
+    -> Since selenium can only work with browsers, and the file is downloaded
+    to the computer file directory, we cannot verify a download using selenium.
+
 HOW DO WE HANDLE UPLOADS WITH SELENIUM?
-    -> We can upload files using selenium by sending the path of the file into the upload web element.
+    -> We can upload files using selenium by sending the path of the file into
+    the upload web element.
     syntax: uploadWebElement.sendKeys("path of the file");
 ===========================
 JAVASCRIPTEXECUTOR:
     -> WHAT IS JAVASCRIPTEXECUTOR?
         - Just an interface with two methods.
     -> What can we do with these methods?
-        - JavaScriptExecutor allows us to execute/inject javascript code into our java/selenium code.
+        - JavaScriptExecutor allows us to execute/inject javascript code into
+        our java/selenium code.
     -> When do we need this?
-        - Whenever selenium is not capable of some of the actions we need to do, such as scrolling down.
+        - Whenever selenium is not capable of some of the actions we need to do,
+        such as scrolling down.
 =================
 ACTIONS:
     -> WHY DO WE NEED ACTIONS CLASS? WHAT DOES IT DO?
-    -> Actions class allows us to handle complex/advanced mouse and keyboard actions. Such as:
+    -> Actions class allows us to handle complex/advanced mouse and keyboard actions.
+    Such as:
         -> hover over : moveToElement
         -> right click: contextClick
         -> dragAndDrop: allows us to drag and drop a web element
@@ -42,5 +48,38 @@ How many ways to scroll down?
     1- Using JavaScriptExecutor
     2- Using Actions moveToElement method.
 ====================================================
+WHAT TOOLS WE ARE USING IN OUR FRAMEWORK SO FAR
+-> Java
+-> Selenium
+-> TestNg
+-> Faker faker new faker
+-> WebDriverManager (boni garcia)
+
+What does our folder structure look like?
+
+- seleniumprojectb18
+- src
+- test
+- java
+- test --> this is where we keep our tests
+- utilities --> this is where we keep our utils
+-
+- configuration.properties
+- pom.xml
+
+-> WHAT DESIGN PATTERN WE USED SO FAR?
+-> We used Singleton Design Pattern
+-> We created Driver utilities using Singleton Design Pattern.
+
+-> How did we achieve singleton?
+-> We created private constructor, and created a method to return the instance of that class. (WebDriver)
+
+- A design pattern is not a framework. It is just the part of a framework.
+- Usually just another layer in our framework to make "something" easy to handle
+ for ourselves.
+
+- The framework: is the overall folder structure, design patterns, utilities,
+and how all of this implemented and working together.
+
      */
 }

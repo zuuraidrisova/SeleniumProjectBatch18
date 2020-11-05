@@ -2,7 +2,175 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9235ec1-89f8-43d7-9437-2cbcb6caca12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/VytrackTestUsers.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HoversPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HoversPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Loading1Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Loading1Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Loading7Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Loading7Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/VytrackForgotPasswordPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/VytrackForgotPasswordPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day01_SeleniumIntro/BasicSeleniumNavigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day01_SeleniumIntro/BasicSeleniumNavigations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day01_SeleniumIntro/FirstSeleniumTestScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day01_SeleniumIntro/FirstSeleniumTestScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/EtsyTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/EtsyTitleVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC3_LinkTextLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC3_LinkTextLocator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC4_GoogleTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC4_GoogleTitleVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC5_BasicLoginAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC5_BasicLoginAuthentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/ZeroBankHeaderVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/ZeroBankHeaderVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/notesLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/notesLocators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/ExampleForWebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/ExampleForWebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC3_ForgotPasswordUrlVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC3_ForgotPasswordUrlVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC4_ZeroBankUrlVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC4_ZeroBankUrlVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC5_BasicAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC5_BasicAuthentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/absoluteXPATHPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/absoluteXPATHPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/notesXPATH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/notesXPATH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/searchAmazonCssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/searchAmazonCssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/FindElementFindElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/FindElementFindElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P1_FindElementsMeriamWebster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P1_FindElementsMeriamWebster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P2_AppleFindElementsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P2_AppleFindElementsPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P2_FindElementsApple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P2_FindElementsApple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P3_FindElements_AppleHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P3_FindElements_AppleHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P4_Cybertek_Checkboxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P4_Cybertek_Checkboxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P5_CheckboxVerificationAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P5_CheckboxVerificationAgain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P5_CheckboxVerificationPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P5_CheckboxVerificationPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P6_CheckBoxVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P6_CheckBoxVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P7_WebElementVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P7_WebElementVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/FirstTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/FirstTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/RecapNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/RecapNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/TestNGintro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/TestNGintro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/DropDownsPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/DropDownsPractices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC3_SelectingADate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC3_SelectingADate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC4_selectingFromMultipleDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC4_selectingFromMultipleDropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC5_SelectingValueFromNonSelectDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC5_SelectingValueFromNonSelectDropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TestngSeleniumPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TestngSeleniumPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/notesTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/notesTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/testNGPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/testNGPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/JavaFakerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/JavaFakerPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P1_SmartBearSoftwareLinkVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P1_SmartBearSoftwareLinkVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P2_SmartBearOrderPlacing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P2_SmartBearOrderPlacing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P3_smartBearSoftwareOrderVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P3_smartBearSoftwareOrderVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P4_SelectingDateDropDownVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P4_SelectingDateDropDownVerify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/RecapNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/RecapNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/WebTablesNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/WebTablesNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/smartBear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/smartBear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/DropdownPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/DropdownPractices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/WebTablesPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/WebTablesPractices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/alertsPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/alertsPractices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/classNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/classNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/iframePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/iframePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/windowHandlePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/windowHandlePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/DriverUtilPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/DriverUtilPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/LearningProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/LearningProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/ReadingFromProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/ReadingFromProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/windowHandlePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/windowHandlePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/windowHandlepracticeTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/windowHandlePracticeTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/Actions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/Actions2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/JSExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/JSExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/Uploading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/Uploading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/ActionsPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/ActionsPractices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/ActionsPracticesPageObjectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/ActionsPracticesPageObjectModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/NegativeLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/NegativeLoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/PageObjectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/PageObjectModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/PositiveLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/PositiveLoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/actionPractices2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/actionPractices2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/recapNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/recapNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/ExplicitWaitPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/ExplicitWaitPractices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/ForgotPasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/ForgotPasswordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/RecapNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/RecapNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P10_CybertekRegistrationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P10_CybertekRegistrationForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P15_HoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P15_HoverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P8_VerifyOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P8_VerifyOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P9_PrintNamesAndCities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P9_PrintNamesAndCities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/TC35_TC36_VytrackForgotPasswordVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/TC35_TC36_VytrackForgotPasswordVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/removeName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/removeName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/smartBearDeleteOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/smartBearDeleteOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/smartBearEditOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/smartBearEditOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/configurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/configurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/smartBearUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/smartBearUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HoversPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HoversPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/Loading1Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/Loading1Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/Loading7Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/Loading7Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day10_Actions_JavaScriptExecutor_uploading/Actions2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day10_Actions_JavaScriptExecutor_uploading/Actions2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day10_Actions_JavaScriptExecutor_uploading/Uploading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day10_Actions_JavaScriptExecutor_uploading/Uploading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/ActionsPractices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/ActionsPractices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/ActionsPracticesPageObjectModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/ActionsPracticesPageObjectModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/NegativeLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/NegativeLoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/PositiveLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/PositiveLoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/actionPractices2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/actionPractices2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day12_Synchronization/ExplicitWaitPractices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day12_Synchronization/ExplicitWaitPractices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day12_Synchronization/ForgotPasswordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day12_Synchronization/ForgotPasswordTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/BasicSeleniumNavigations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/FirstSeleniumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/FirstSeleniumTestScript.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/JavaTpointTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/TC1_GoogleTitleVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/TC2_CybertekVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/EtsyTitleVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/TC3_LinkTextLocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/TC4_GoogleTitleVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/TC5_BasicLoginAuthentication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/ZeroBankHeaderVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/notesLocators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/ExampleForWebDriverFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/TC3_ForgotPasswordUrlVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/TC4_ZeroBankUrlVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/TC5_BasicAuthentication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/absoluteXPATHPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/notesXPATH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/searchAmazonCssSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/FindElementFindElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P1_FindElementsMeriamWebster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P2_AppleFindElementsPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P2_FindElementsApple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P3_FindElements_AppleHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P4_Cybertek_Checkboxes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P5_CheckboxVerificationAgain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P5_CheckboxVerificationPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P6_CheckBoxVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P7_WebElementVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day5_Recap_TestNG/FirstTestNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day5_Recap_TestNG/RecapNotes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day5_Recap_TestNG/TestNGintro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/DropDownsPractices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/TC3_SelectingADate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/TC4_selectingFromMultipleDropdown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/TC5_SelectingValueFromNonSelectDropdown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/TestngSeleniumPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/notesTestNG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/testNGPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/JavaFakerPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/P1_SmartBearSoftwareLinkVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/P2_SmartBearOrderPlacing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/P3_smartBearSoftwareOrderVerification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/P4_SelectingDateDropDownVerify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/RecapNotes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/WebTablesNotes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/smartBear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/DropdownPractices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/WebTablesPractices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/alertsPractices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/classNotes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/iframePractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/windowHandlePractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/DriverUtilPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/LearningProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/ReadingFromProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/windowHandlePractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/windowHandlepracticeTestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P10_CybertekRegistrationForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P10_CybertekRegistrationForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P8_VerifyOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P8_VerifyOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P9_PrintNamesAndCities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P9_PrintNamesAndCities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/removeName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/removeName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/smartBearDeleteOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/smartBearDeleteOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/smartBearEditOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/smartBearEditOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/configurationReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/configurationReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/smartBearUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/smartBearUtility.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +211,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="TestNG.ExplicitWaitPractices.tc41_dynamicForm_test">
-    <configuration name="ExplicitWaitPractices.tc40_dynamicTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Actions2.hoover_over_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjectBatch18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day12_Synchronization.*" />
+          <option name="PATTERN" value="test.day10_Actions_JavaScriptExecutor_uploading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.day12_Synchronization" />
-      <option name="MAIN_CLASS_NAME" value="test.day12_Synchronization.ExplicitWaitPractices" />
-      <option name="METHOD_NAME" value="tc40_dynamicTitleTest" />
+      <option name="PACKAGE_NAME" value="test.day10_Actions_JavaScriptExecutor_uploading" />
+      <option name="MAIN_CLASS_NAME" value="test.day10_Actions_JavaScriptExecutor_uploading.Actions2" />
+      <option name="METHOD_NAME" value="hoover_over_test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -80,24 +253,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForgotPasswordTest.tc36_errorMessage_verification" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProjectBatch18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.day12_Synchronization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.day12_Synchronization" />
-      <option name="MAIN_CLASS_NAME" value="test.day12_Synchronization.ForgotPasswordTest" />
-      <option name="METHOD_NAME" value="tc36_errorMessage_verification" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NegativeLoginTests.positive_login_test" type="TestNG" nameIsGenerated="true">
       <module name="SeleniumProjectBatch18" />
       <extension name="coverage">
@@ -116,7 +271,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC35_TC36_VytrackForgotPasswordVerification.forgotPasswordPage_errorMsg_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="P8_VerifyOrder" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjectBatch18" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +280,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.warmpUpTasks" />
-      <option name="MAIN_CLASS_NAME" value="test.warmpUpTasks.TC35_TC36_VytrackForgotPasswordVerification" />
-      <option name="METHOD_NAME" value="forgotPasswordPage_errorMsg_test" />
+      <option name="MAIN_CLASS_NAME" value="test.warmpUpTasks.P8_VerifyOrder" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingFromProperties.using_configuration_reader_utility" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectBatch18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day09_TestBase_Properties_DriverUtil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.day09_TestBase_Properties_DriverUtil" />
+      <option name="MAIN_CLASS_NAME" value="test.day09_TestBase_Properties_DriverUtil.ReadingFromProperties" />
+      <option name="METHOD_NAME" value="using_configuration_reader_utility" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -134,17 +306,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC35_TC36_VytrackForgotPasswordVerification.vytrackForgotPassword_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="windowHandlePractice.multiple_window_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjectBatch18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.warmpUpTasks.*" />
+          <option name="PATTERN" value="test.day09_TestBase_Properties_DriverUtil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.warmpUpTasks" />
-      <option name="MAIN_CLASS_NAME" value="test.warmpUpTasks.TC35_TC36_VytrackForgotPasswordVerification" />
-      <option name="METHOD_NAME" value="vytrackForgotPassword_test" />
+      <option name="PACKAGE_NAME" value="test.day09_TestBase_Properties_DriverUtil" />
+      <option name="MAIN_CLASS_NAME" value="test.day09_TestBase_Properties_DriverUtil.windowHandlePractice" />
+      <option name="METHOD_NAME" value="multiple_window_test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -155,10 +327,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.ExplicitWaitPractices.tc41_dynamicForm_test" />
-        <item itemvalue="TestNG.ExplicitWaitPractices.tc40_dynamicTitleTest" />
-        <item itemvalue="TestNG.ForgotPasswordTest.tc36_errorMessage_verification" />
-        <item itemvalue="TestNG.TC35_TC36_VytrackForgotPasswordVerification.forgotPasswordPage_errorMsg_test" />
-        <item itemvalue="TestNG.TC35_TC36_VytrackForgotPasswordVerification.vytrackForgotPassword_test" />
+        <item itemvalue="TestNG.Actions2.hoover_over_test" />
+        <item itemvalue="TestNG.ReadingFromProperties.using_configuration_reader_utility" />
+        <item itemvalue="TestNG.windowHandlePractice.multiple_window_test" />
+        <item itemvalue="TestNG.P8_VerifyOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -189,170 +361,33 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594134656913">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1372" height="3" key="GridCell.Tab.0.bottom" timestamp="1604389326835">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state x="188" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1594134656913" />
-    <state x="188" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1592939773250" />
-    <state x="112" y="125" width="1224" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593976603682">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1604389326835" />
+    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1604120579983" />
+    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1603915277963" />
+    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1604087986470" />
+    <state width="1372" height="3" key="GridCell.Tab.0.center" timestamp="1604389326835">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state x="112" y="125" width="1224" height="621" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.822@0.23.1440.822" timestamp="1593016038471" />
-    <state x="112" y="125" width="1224" height="620" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1592581052849" />
-    <state x="112" y="125" width="1224" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1593976603682" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom" timestamp="1594525579006">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1604389326835" />
+    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1604120579982" />
+    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1603915277962" />
+    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1604087986468" />
+    <state width="1372" height="3" key="GridCell.Tab.0.left" timestamp="1604389326834">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1594084989006" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1594179598740" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1593020420292" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1594525579006" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1594085418850" />
-    <state width="1372" height="488" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1593017836802" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1591589633654" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1593017889229" />
-    <state width="1372" height="10" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1591929247761" />
-    <state width="1372" height="474" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1591929308617" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.813@0.23.1440.813" timestamp="1593978782786" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1594068228078" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1594137257341" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1593094216766" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1594135904049" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1594136217594" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1594055018793" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1593976574745" />
-    <state width="1372" height="61" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1593708316495" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1593026210867" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1592016197757" />
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.830@0.23.1440.830" timestamp="1591373948038" />
-    <state width="1372" height="517" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1592330451061" />
-    <state width="1372" height="190" key="GridCell.Tab.0.bottom/1440.23.1920.993/0.23.1440.877@0.23.1440.877" timestamp="1593640244484" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center" timestamp="1594525579006">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1604389326834" />
+    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1604120579981" />
+    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1603915277962" />
+    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1604087986468" />
+    <state width="1372" height="3" key="GridCell.Tab.0.right" timestamp="1604389326835">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1594084989005" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1594179598740" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1593020420292" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1594525579006" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1594085418849" />
-    <state width="1372" height="488" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1593017836801" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1591589633653" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1593017889229" />
-    <state width="1372" height="10" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1591929247760" />
-    <state width="1372" height="474" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1591929308616" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.813@0.23.1440.813" timestamp="1593978782785" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1594068228076" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1594137257340" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1593094216765" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1594135904049" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1594136217593" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1594055018792" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1593976574743" />
-    <state width="1372" height="61" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1593708316494" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1593026210865" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1592016197757" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.830@0.23.1440.830" timestamp="1591373948036" />
-    <state width="1372" height="517" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1592330451060" />
-    <state width="1372" height="190" key="GridCell.Tab.0.center/1440.23.1920.993/0.23.1440.877@0.23.1440.877" timestamp="1593640244483" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left" timestamp="1594525579005">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1594084989005" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1594179598739" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1593020420291" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1594525579005" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1594085418848" />
-    <state width="1372" height="488" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1593017836801" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1591589633652" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1593017889228" />
-    <state width="1372" height="10" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1591929247760" />
-    <state width="1372" height="474" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1591929308616" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.813@0.23.1440.813" timestamp="1593978782785" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1594068228076" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1594137257339" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1593094216765" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1594135904048" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1594136217592" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1594055018792" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1593976574743" />
-    <state width="1372" height="61" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1593708316493" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1593026210865" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1592016197756" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.830@0.23.1440.830" timestamp="1591373948035" />
-    <state width="1372" height="517" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1592330451060" />
-    <state width="1372" height="190" key="GridCell.Tab.0.left/1440.23.1920.993/0.23.1440.877@0.23.1440.877" timestamp="1593640244482" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right" timestamp="1594525579006">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1594084989005" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1594179598740" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1593020420292" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1594525579006" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1594085418849" />
-    <state width="1372" height="488" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1593017836802" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1591589633653" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1593017889229" />
-    <state width="1372" height="10" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1591929247761" />
-    <state width="1372" height="474" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1591929308616" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.813@0.23.1440.813" timestamp="1593978782786" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1594068228077" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1594137257340" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1593094216766" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1594135904049" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1594136217593" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1594055018792" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.825@0.23.1440.825" timestamp="1593976574744" />
-    <state width="1372" height="61" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1593708316494" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1593026210866" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1592016197757" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.830@0.23.1440.830" timestamp="1591373948037" />
-    <state width="1372" height="517" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1592330451061" />
-    <state width="1372" height="190" key="GridCell.Tab.0.right/1440.23.1920.993/0.23.1440.877@0.23.1440.877" timestamp="1593640244483" />
-    <state width="1372" height="248" key="GridCell.Tab.1.bottom" timestamp="1592705417207">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1372" height="248" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1592705417207" />
-    <state width="1372" height="248" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1592582278340" />
-    <state width="1372" height="248" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1591156989869" />
-    <state width="1372" height="248" key="GridCell.Tab.1.center" timestamp="1592705417206">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1372" height="248" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1592705417206" />
-    <state width="1372" height="248" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1592582278340" />
-    <state width="1372" height="248" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1591156989868" />
-    <state width="1372" height="248" key="GridCell.Tab.1.left" timestamp="1592705417206">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1372" height="248" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1592705417206" />
-    <state width="1372" height="248" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1592582278339" />
-    <state width="1372" height="248" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1591156989868" />
-    <state width="1372" height="248" key="GridCell.Tab.1.right" timestamp="1592705417206">
-      <screen x="0" y="23" width="1440" height="822" />
-    </state>
-    <state width="1372" height="248" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1592705417206" />
-    <state width="1372" height="248" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1592582278340" />
-    <state width="1372" height="248" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1591156989869" />
-    <state x="117" y="23" key="SettingsEditor" timestamp="1594405489694">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="117" y="23" key="SettingsEditor/1440.23.1920.1057/0.23.1440.821@0.23.1440.821" timestamp="1594405489694" />
-    <state x="117" y="23" key="SettingsEditor/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1594405462911" />
-    <state x="117" y="23" key="SettingsEditor/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1591368944013" />
-    <state x="200" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592940547942">
-      <screen x="0" y="23" width="1440" height="820" />
-    </state>
-    <state x="200" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.23.1920.1057/0.23.1440.820@0.23.1440.820" timestamp="1592940547942" />
-    <state x="200" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1591719531431" />
-    <state x="0" y="67" key="new project wizard" timestamp="1595258312245">
-      <screen x="0" y="23" width="1440" height="814" />
-    </state>
-    <state x="0" y="67" key="new project wizard/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1595258312245" />
-    <state x="0" y="67" key="new project wizard/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1594233928662" />
-    <state x="305" y="23" width="838" height="1030" key="search.everywhere.popup" timestamp="1594523290665">
-      <screen x="0" y="23" width="1440" height="821" />
-    </state>
-    <state x="305" y="23" width="838" height="1030" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1594523290665" />
-    <state x="305" y="23" width="838" height="1031" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.822@0.23.1440.822" timestamp="1594405343354" />
-    <state x="305" y="23" width="838" height="1032" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1591125397978" />
+    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1604389326835" />
+    <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1604120579982" />
+    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1603915277962" />
+    <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1604087986469" />
   </component>
 </project>

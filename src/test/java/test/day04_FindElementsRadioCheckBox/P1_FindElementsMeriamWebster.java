@@ -32,7 +32,6 @@ public class P1_FindElementsMeriamWebster {
         //goes to given url
         driver.get("https://www.merriam-webster.com/");
 
-
         List<WebElement> listOfLinks =  driver.findElements(By.xpath("//body//a"));
         //we are creating a list of web elements and storing values returned
 

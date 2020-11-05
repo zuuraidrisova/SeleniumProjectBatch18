@@ -1,8 +1,8 @@
 package test.day02_FindElement;
 
 public class notesLocators {
-    /*
 
+    /*
   findElement()==> method which finds and returns a single web element
         return type is Web Element
         whenever it cannot find a webElement by given locator , it will throw
@@ -18,7 +18,7 @@ public class notesLocators {
          syntax:  driver.findElement(By.name("name attribute value));
 
         2.linkText ==> it allows user to locate links by their text
-                Only works only links,
+                Only works on links,
                 i know it is link by <a> webelement
                 <a href = "https://www.google.com"> TEXT HERE </a>
 

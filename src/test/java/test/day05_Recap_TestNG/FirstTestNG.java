@@ -10,8 +10,7 @@ public class FirstTestNG {
     TestNg ==> NG ==> stands for next generation
 
     @Test ==> annotation,indicates that method is a test method.
-    Test method where we do
-
+    Test method where we do assertions
      */
     @BeforeMethod
     public void setUp(){

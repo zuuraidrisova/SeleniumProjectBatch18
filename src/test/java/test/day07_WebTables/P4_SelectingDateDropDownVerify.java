@@ -35,10 +35,12 @@ Select day using : index number
 
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
+
     //3. Select “December 1st, 1921” and verify it is selected.
     //Select year using : visible text
     //Select month using : value attribute
     //Select day using : index number
+
     @Test
     public void test1() throws InterruptedException{
 
@@ -79,7 +81,6 @@ Select day using : index number
 
     @AfterMethod
     public void tearDown(){
-
 
         driver.close();
     }
