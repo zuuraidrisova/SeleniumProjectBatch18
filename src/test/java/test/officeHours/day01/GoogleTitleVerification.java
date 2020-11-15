@@ -33,6 +33,8 @@ public class GoogleTitleVerification {
             System.out.println("Page title :: "+driver.getTitle());
             softAssert.assertAll();//regardless on miss matching assertions, test execution will continue until this point
         }
+
+
         @Test(description = "Test for Amazon", priority = 2)
         public void amazonTest(){
             driver.get("http://amazon.com");
@@ -40,6 +42,7 @@ public class GoogleTitleVerification {
             softAssert.assertTrue(driver.getTitle().contains("Amazon"));
             softAssert.assertAll();//regardless on miss matching assertions, test execution will continue until this point
         }
+
         @AfterMethod
         public void tearDown() {
             driver.quit();

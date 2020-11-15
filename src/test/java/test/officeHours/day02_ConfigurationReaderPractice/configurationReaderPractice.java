@@ -1,4 +1,4 @@
-package test.officeHours.day02;
+package test.officeHours.day02_ConfigurationReaderPractice;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -56,7 +56,7 @@ public class configurationReaderPractice {
 
         Thread.sleep(2000);
 
-       String title =  driver.getTitle();
+        String title =  driver.getTitle();
 
         System.out.println(title);
 

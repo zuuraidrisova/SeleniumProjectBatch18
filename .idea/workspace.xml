@@ -2,175 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9235ec1-89f8-43d7-9437-2cbcb6caca12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/VytrackTestUsers.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VytrackTestUsers.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/VytrackTestUsers.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HoversPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HoversPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Loading1Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Loading1Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Loading7Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Loading7Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/VytrackForgotPasswordPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/VytrackForgotPasswordPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day01_SeleniumIntro/BasicSeleniumNavigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day01_SeleniumIntro/BasicSeleniumNavigations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day01_SeleniumIntro/FirstSeleniumTestScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day01_SeleniumIntro/FirstSeleniumTestScript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/EtsyTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/EtsyTitleVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC3_LinkTextLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC3_LinkTextLocator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC4_GoogleTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC4_GoogleTitleVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC5_BasicLoginAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/TC5_BasicLoginAuthentication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/ZeroBankHeaderVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/ZeroBankHeaderVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/notesLocators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day02_FindElement/notesLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/ExampleForWebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/ExampleForWebDriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC3_ForgotPasswordUrlVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC3_ForgotPasswordUrlVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC4_ZeroBankUrlVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC4_ZeroBankUrlVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC5_BasicAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/TC5_BasicAuthentication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/absoluteXPATHPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/absoluteXPATHPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/notesXPATH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/notesXPATH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day03_XPath/searchAmazonCssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day03_XPath/searchAmazonCssSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/FindElementFindElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/FindElementFindElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P1_FindElementsMeriamWebster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P1_FindElementsMeriamWebster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P2_AppleFindElementsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P2_AppleFindElementsPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P2_FindElementsApple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P2_FindElementsApple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P3_FindElements_AppleHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P3_FindElements_AppleHeader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P4_Cybertek_Checkboxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P4_Cybertek_Checkboxes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P5_CheckboxVerificationAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P5_CheckboxVerificationAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P5_CheckboxVerificationPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P5_CheckboxVerificationPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P6_CheckBoxVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P6_CheckBoxVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P7_WebElementVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day04_FindElementsRadioCheckBox/P7_WebElementVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/FirstTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/FirstTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/RecapNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/RecapNotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/TestNGintro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day05_Recap_TestNG/TestNGintro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/DropDownsPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/DropDownsPractices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC3_SelectingADate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC3_SelectingADate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC4_selectingFromMultipleDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC4_selectingFromMultipleDropdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC5_SelectingValueFromNonSelectDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TC5_SelectingValueFromNonSelectDropdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TestngSeleniumPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/TestngSeleniumPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/notesTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/notesTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/testNGPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day06_TestNG_DropDowns/testNGPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/JavaFakerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/JavaFakerPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P1_SmartBearSoftwareLinkVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P1_SmartBearSoftwareLinkVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P2_SmartBearOrderPlacing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P2_SmartBearOrderPlacing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P3_smartBearSoftwareOrderVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P3_smartBearSoftwareOrderVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P4_SelectingDateDropDownVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/P4_SelectingDateDropDownVerify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/RecapNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/RecapNotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/WebTablesNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/WebTablesNotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/smartBear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day07_WebTables/smartBear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/DropdownPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/DropdownPractices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/WebTablesPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/WebTablesPractices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/alertsPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/alertsPractices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/classNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/classNotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/iframePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/iframePractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/windowHandlePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day08_Alerts_Iframes_Windows/windowHandlePractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/DriverUtilPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/DriverUtilPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/LearningProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/LearningProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/ReadingFromProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/ReadingFromProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/TestBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/windowHandlePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/windowHandlePractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/windowHandlepracticeTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day09_TestBase_Properties_DriverUtil/windowHandlePracticeTestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/Actions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/Actions2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/JSExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/JSExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/Uploading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day10_Actions_JavaScriptExecutor_uploading/Uploading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/ActionsPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/ActionsPractices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/ActionsPracticesPageObjectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/ActionsPracticesPageObjectModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/NegativeLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/NegativeLoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/PageObjectModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/PageObjectModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/PositiveLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/PositiveLoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/actionPractices2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/actionPractices2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/recapNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day11_pageObjectModel/recapNotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/ExplicitWaitPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/ExplicitWaitPractices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/ForgotPasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/ForgotPasswordTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/RecapNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/day12_Synchronization/RecapNotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P10_CybertekRegistrationForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P10_CybertekRegistrationForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P15_HoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P15_HoverTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P8_VerifyOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P8_VerifyOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P9_PrintNamesAndCities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/P9_PrintNamesAndCities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/TC35_TC36_VytrackForgotPasswordVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/TC35_TC36_VytrackForgotPasswordVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/removeName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/removeName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/smartBearDeleteOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/smartBearDeleteOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/smartBearEditOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/warmpUpTasks/smartBearEditOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/WebDriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/configurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/configurationReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/smartBearUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/smartBearUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/HoversPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/HoversPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/Loading1Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/Loading1Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/Loading7Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/Loading7Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/base/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day10_Actions_JavaScriptExecutor_uploading/Actions2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day10_Actions_JavaScriptExecutor_uploading/Actions2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day10_Actions_JavaScriptExecutor_uploading/Uploading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day10_Actions_JavaScriptExecutor_uploading/Uploading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/ActionsPractices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/ActionsPractices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/ActionsPracticesPageObjectModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/ActionsPracticesPageObjectModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/NegativeLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/NegativeLoginTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/PositiveLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/PositiveLoginTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/actionPractices2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day11_pageObjectModel/actionPractices2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day12_Synchronization/ExplicitWaitPractices.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day12_Synchronization/ExplicitWaitPractices.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day12_Synchronization/ForgotPasswordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/day12_Synchronization/ForgotPasswordTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/BasicSeleniumNavigations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/FirstSeleniumTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/FirstSeleniumTestScript.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/JavaTpointTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/TC1_GoogleTitleVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day1_SeleniumIntro/TC2_CybertekVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/EtsyTitleVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/TC3_LinkTextLocator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/TC4_GoogleTitleVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/TC5_BasicLoginAuthentication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/ZeroBankHeaderVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day2_FindElement/notesLocators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/ExampleForWebDriverFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/TC3_ForgotPasswordUrlVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/TC4_ZeroBankUrlVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/TC5_BasicAuthentication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/absoluteXPATHPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/notesXPATH.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day3_XPath/searchAmazonCssSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/FindElementFindElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P1_FindElementsMeriamWebster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P2_AppleFindElementsPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P2_FindElementsApple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P3_FindElements_AppleHeader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P4_Cybertek_Checkboxes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P5_CheckboxVerificationAgain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P5_CheckboxVerificationPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P6_CheckBoxVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day4_FindElementsRadioCheckBox/P7_WebElementVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day5_Recap_TestNG/FirstTestNG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day5_Recap_TestNG/RecapNotes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day5_Recap_TestNG/TestNGintro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/DropDownsPractices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/TC3_SelectingADate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/TC4_selectingFromMultipleDropdown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/TC5_SelectingValueFromNonSelectDropdown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/TestngSeleniumPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/notesTestNG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day6_TestNG_DropDowns/testNGPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/JavaFakerPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/P1_SmartBearSoftwareLinkVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/P2_SmartBearOrderPlacing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/P3_smartBearSoftwareOrderVerification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/P4_SelectingDateDropDownVerify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/RecapNotes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/WebTablesNotes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day7_WebTables/smartBear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/DropdownPractices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/WebTablesPractices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/alertsPractices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/classNotes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/iframePractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day8_Alerts_Iframes_Windows/windowHandlePractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/DriverUtilPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/LearningProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/ReadingFromProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/TestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/windowHandlePractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/day9_TestBase_Properties_DriverUtil/windowHandlepracticeTestBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P10_CybertekRegistrationForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P10_CybertekRegistrationForm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P8_VerifyOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P8_VerifyOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P9_PrintNamesAndCities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/P9_PrintNamesAndCities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/removeName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/removeName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/smartBearDeleteOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/smartBearDeleteOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/smartBearEditOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/warmpUpTasks/smartBearEditOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/configurationReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/configurationReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/smartBearUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/smartBearUtility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/officeHours/day01/AmazonTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/officeHours/day01/AmazonTitleVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/officeHours/day01/GoogleTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/officeHours/day01/GoogleTitleVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/officeHours/day01/JavaSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/officeHours/day01/JavaSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/officeHours/day01/SeleniumNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/officeHours/day01/SeleniumNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/officeHours/day02/configurationReaderPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/officeHours/day02_ConfigurationReaderPractice/configurationReaderPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/officeHours/day02/notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/officeHours/day02_ConfigurationReaderPractice/notes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/officeHours/day03/DataProviderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/officeHours/day03_DataProviderTestNG_Example/DataProviderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/officeHours/day03/excelIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/officeHours/day03_DataProviderTestNG_Example/excelIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,25 +52,29 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ExplicitWaitPractices.tc41_dynamicForm_test">
-    <configuration name="Actions2.hoover_over_test" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DataProviderExample.loginTestWithExcel">
+    <configuration name="DataProviderExample2.loginTestVyTrack" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjectBatch18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day10_Actions_JavaScriptExecutor_uploading.*" />
+          <option name="PATTERN" value="test.officeHours.day04_howToWorkWithExcelFiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.day10_Actions_JavaScriptExecutor_uploading" />
-      <option name="MAIN_CLASS_NAME" value="test.day10_Actions_JavaScriptExecutor_uploading.Actions2" />
-      <option name="METHOD_NAME" value="hoover_over_test" />
+      <option name="PACKAGE_NAME" value="test.officeHours.day04_howToWorkWithExcelFiles" />
+      <option name="MAIN_CLASS_NAME" value="test.officeHours.day04_howToWorkWithExcelFiles.DataProviderExample2" />
+      <option name="METHOD_NAME" value="loginTestVyTrack" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -235,17 +82,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplicitWaitPractices.tc41_dynamicForm_test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProviderExample2.loginTestVyTrackWithDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjectBatch18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day12_Synchronization.*" />
+          <option name="PATTERN" value="test.officeHours.day04_howToWorkWithExcelFiles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.day12_Synchronization" />
-      <option name="MAIN_CLASS_NAME" value="test.day12_Synchronization.ExplicitWaitPractices" />
-      <option name="METHOD_NAME" value="tc41_dynamicForm_test" />
+      <option name="PACKAGE_NAME" value="test.officeHours.day04_howToWorkWithExcelFiles" />
+      <option name="MAIN_CLASS_NAME" value="test.officeHours.day04_howToWorkWithExcelFiles.DataProviderExample2" />
+      <option name="METHOD_NAME" value="loginTestVyTrackWithDataProvider" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderExample2.loginTestVyTrackWithDataProviderFromExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectBatch18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.officeHours.day04_howToWorkWithExcelFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.officeHours.day04_howToWorkWithExcelFiles" />
+      <option name="MAIN_CLASS_NAME" value="test.officeHours.day04_howToWorkWithExcelFiles.DataProviderExample2" />
+      <option name="METHOD_NAME" value="loginTestVyTrackWithDataProviderFromExcel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderExample.loginTestWithExcel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectBatch18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.officeHours.day03_DataProviderTestNG_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.officeHours.day03_DataProviderTestNG_Example" />
+      <option name="MAIN_CLASS_NAME" value="test.officeHours.day03_DataProviderTestNG_Example.DataProviderExample" />
+      <option name="METHOD_NAME" value="loginTestWithExcel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelIO.writeIntoExcelFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectBatch18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.officeHours.day04_howToWorkWithExcelFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.officeHours.day04_howToWorkWithExcelFiles" />
+      <option name="MAIN_CLASS_NAME" value="test.officeHours.day04_howToWorkWithExcelFiles.ExcelIO" />
+      <option name="METHOD_NAME" value="writeIntoExcelFile" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -271,66 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P8_VerifyOrder" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProjectBatch18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.warmpUpTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.warmpUpTasks" />
-      <option name="MAIN_CLASS_NAME" value="test.warmpUpTasks.P8_VerifyOrder" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadingFromProperties.using_configuration_reader_utility" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProjectBatch18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.day09_TestBase_Properties_DriverUtil.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.day09_TestBase_Properties_DriverUtil" />
-      <option name="MAIN_CLASS_NAME" value="test.day09_TestBase_Properties_DriverUtil.ReadingFromProperties" />
-      <option name="METHOD_NAME" value="using_configuration_reader_utility" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="windowHandlePractice.multiple_window_test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProjectBatch18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.day09_TestBase_Properties_DriverUtil.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.day09_TestBase_Properties_DriverUtil" />
-      <option name="MAIN_CLASS_NAME" value="test.day09_TestBase_Properties_DriverUtil.windowHandlePractice" />
-      <option name="METHOD_NAME" value="multiple_window_test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ExplicitWaitPractices.tc41_dynamicForm_test" />
-        <item itemvalue="TestNG.Actions2.hoover_over_test" />
-        <item itemvalue="TestNG.ReadingFromProperties.using_configuration_reader_utility" />
-        <item itemvalue="TestNG.windowHandlePractice.multiple_window_test" />
-        <item itemvalue="TestNG.P8_VerifyOrder" />
+        <item itemvalue="TestNG.DataProviderExample.loginTestWithExcel" />
+        <item itemvalue="TestNG.DataProviderExample2.loginTestVyTrackWithDataProviderFromExcel" />
+        <item itemvalue="TestNG.DataProviderExample2.loginTestVyTrackWithDataProvider" />
+        <item itemvalue="TestNG.DataProviderExample2.loginTestVyTrack" />
+        <item itemvalue="TestNG.ExcelIO.writeIntoExcelFile" />
       </list>
     </recent_temporary>
   </component>
@@ -361,31 +209,39 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1372" height="3" key="GridCell.Tab.0.bottom" timestamp="1604389326835">
-      <screen x="0" y="23" width="1440" height="824" />
+    <state width="1377" height="526" key="GridCell.Tab.0.bottom" timestamp="1605483599324">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1604389326835" />
+    <state width="1377" height="55" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1605483457907" />
+    <state width="1377" height="526" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1605483599324" />
     <state width="1372" height="3" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1604120579983" />
     <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1603915277963" />
     <state width="1372" height="3" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1604087986470" />
-    <state width="1372" height="3" key="GridCell.Tab.0.center" timestamp="1604389326835">
-      <screen x="0" y="23" width="1440" height="824" />
+    <state width="1377" height="526" key="GridCell.Tab.0.center" timestamp="1605483599324">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1604389326835" />
+    <state width="1377" height="55" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1605483457906" />
+    <state width="1377" height="526" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1605483599324" />
     <state width="1372" height="3" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1604120579982" />
     <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1603915277962" />
     <state width="1372" height="3" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1604087986468" />
-    <state width="1372" height="3" key="GridCell.Tab.0.left" timestamp="1604389326834">
-      <screen x="0" y="23" width="1440" height="824" />
+    <state width="1377" height="526" key="GridCell.Tab.0.left" timestamp="1605483599323">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1604389326834" />
+    <state width="1377" height="55" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1605483457906" />
+    <state width="1377" height="526" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1605483599323" />
     <state width="1372" height="3" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1604120579981" />
     <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1603915277962" />
     <state width="1372" height="3" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1604087986468" />
-    <state width="1372" height="3" key="GridCell.Tab.0.right" timestamp="1604389326835">
-      <screen x="0" y="23" width="1440" height="824" />
+    <state width="1377" height="526" key="GridCell.Tab.0.right" timestamp="1605483599324">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1604389326835" />
+    <state width="1377" height="55" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1605483457906" />
+    <state width="1377" height="526" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1605483599324" />
     <state width="1372" height="3" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1604120579982" />
     <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.826@0.23.1440.826" timestamp="1603915277962" />
     <state width="1372" height="3" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.828@0.23.1440.828" timestamp="1604087986469" />

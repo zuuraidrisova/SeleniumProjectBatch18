@@ -1,11 +1,10 @@
-package test.officeHours.day03;
+package test.officeHours.day03_DataProviderTestNG_Example;
 
 import org.apache.poi.ss.usermodel.*;
 import org.testng.annotations.Test;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class excelIO {
@@ -48,7 +47,7 @@ public class excelIO {
             //to get number of rows
             int rowNumber = sheet.getPhysicalNumberOfRows();
 
-            //print first column
+            //print all rows of first, second and third columns
             for(int i = 0; i < rowNumber; i++){
 
                 System.out.print(sheet.getRow(i).getCell(0)+"                          ");

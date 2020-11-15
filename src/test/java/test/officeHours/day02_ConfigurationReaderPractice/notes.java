@@ -1,4 +1,4 @@
-package test.officeHours.day02;
+package test.officeHours.day02_ConfigurationReaderPractice;
 
 public class notes {
     /*
@@ -18,4 +18,5 @@ How to start with configuration.properties?
 	Intellij --> right click on folder, where you wanna have this file --> new -->file (config.properties)
 2. Load this file into java code.
      */
+
 }

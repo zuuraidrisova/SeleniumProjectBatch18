@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /*
- * This is a utility for reading from writing to excel files.
+ * This is a utility for reading and writing to excel files.
  * it works with xls and xlsx files.
  */
 
@@ -63,7 +63,9 @@ public class ExcelReader {
         return data;
     }
 
-    public List<Map<String, String>> getDataList() {
+
+    public List<Map<String, String>> getDataAsList() {
+
         // get all columns
         List<String> columns = getColumnsNames();
         // this will be returned

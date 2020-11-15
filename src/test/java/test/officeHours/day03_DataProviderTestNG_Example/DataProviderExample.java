@@ -1,4 +1,4 @@
-package test.officeHours.day03;
+package test.officeHours.day03_DataProviderTestNG_Example;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -18,6 +18,15 @@ public class DataProviderExample {
 
     WebDriver driver = Driver.getDriver();
 
+    @DataProvider
+    public Object[][] testData() {
+
+        return new Object[][]{
+                {"storemanager85", "UserUser123", "Dashboard"},
+                {"salesmanager110", "UserUser123", "Dashboard"}
+        };
+    }
+
     @Test(dataProvider = "testData")
     public void login(String username, String password, String title) throws InterruptedException{
 
@@ -33,24 +42,15 @@ public class DataProviderExample {
 
     }
 
-    @AfterMethod
-    public void tearDown(){
-
-        if(driver != null){
-
-            driver.close();
-        }
-    }
 
     @DataProvider
-    public Object[][] testData() {
+    public Object[][] testDataFromExcel() {
 
-        return new Object[][]{
-                {"storemanager85", "UserUser123", "Dashboard"},
-                {"salesmanager110", "UserUser123", "Dashboard"}
-        };
+        ExcelReader excelUtil = new ExcelReader("VytrackTestUsers.xlsx", "QA1-short");
+
+        return excelUtil.getDataArray();
+
     }
-
 
     //execute   username    password    firstname   lastname    result
     @Test(dataProvider = "testDataFromExcel")
@@ -76,12 +76,14 @@ public class DataProviderExample {
     }
 
 
-    @DataProvider
-    public Object[][] testDataFromExcel() {
-        ExcelReader excelUtil = new ExcelReader("VytrackTestUsers.xlsx", "QA1-short");
-        return excelUtil.getDataArray();
-    }
+    @AfterMethod
+    public void tearDown(){
 
+        if(driver != null){
+
+            driver.close();
+        }
+    }
 
 
 }

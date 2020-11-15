@@ -50,7 +50,6 @@ We created webdriver object. Is it enough?
 
 - no, we need to add browser driver! Browser driver - middleman, between your code and Browser.
 
-
 WebDriverManager.chromedriver().setup();
 
 To setup manually:
